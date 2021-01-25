@@ -1,4 +1,4 @@
-public class GraphInit {
+public class GraphMain {
     public static void main(String[] args) {
         Graph g = new Graph();
         Node node1 = new Node(1);
